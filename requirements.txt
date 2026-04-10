@@ -1,3 +1,9 @@
-pip install google-api-python-client google-auth-httplib2 \
-            google-auth-oauthlib pandas openpyxl python-docx \
-            PyPDF2 Pillow requests
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+pandas
+openpyxl
+python-docx
+PyPDF2
+Pillow
+requests
